@@ -1,2 +1,2 @@
 # 2-Scripts-Compare
-Two scripts can be compared for mismatches.
+This script gets two files as it's input and output the mismatches between them. To run it, simply enter "python script_checkup.py <older file> <new file>".
